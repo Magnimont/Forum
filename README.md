@@ -1,13 +1,4 @@
----
-title: "Building a Community with Magnimont Forum: Explore the Source Code"
-date: "2024-04-05"
-lastmod: "2024-04-05"
-tags: ["forum", "source code", "web development"]
-draft: false
-summary: "Dive into the source code of the Magnimont Forum project and discover how to build your own community-driven forum website. This article explores the features and functionalities provided by the Magnimont Forum source code, offering insights into creating engaging online communities."
-images: []
-authors: ["default"]
----
+
 
 # Building a Community with Magnimont Forum: Explore the Source Code
 
